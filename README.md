@@ -11,7 +11,7 @@ Bot Store Many thing Like:-
 4) Server owner id and Name
 
 The information store till the time Bot is in your server
-NOTE:- IF YOU HAVE PROBLEM WITH IT OR WAN REMOVER OR DELETE THEN YOU CAN CONTACT US IN OUR SUPPORT SERVER
+\nNOTE:- IF YOU HAVE PROBLEM WITH IT OR WAN REMOVER OR DELETE THEN YOU CAN CONTACT US IN OUR SUPPORT SERVER
 
 To contact me (Yuvraj), the developer of Erica, you can mention ! Yuvraj⛓#4578 (531063766645997570) in the official Erica [Discord server](https://discord.gg/D6SFg5XHYu).
 
