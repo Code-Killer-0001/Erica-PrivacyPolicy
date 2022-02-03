@@ -2,7 +2,7 @@
 Required Privacy Policy For Erica
 Last updated on : December 23, 2021
 
-This privacy policy applies to the Discord bot [Erica#8512](https://discord.com/oauth2/authorize?client_id=920683372991361106&permissions=431375642593&scope=applications.commands%20bot).
+This privacy policy applies to the Discord bot [Êrica#0250](https://discord.com/oauth2/authorize?client_id=938473008551575552&permissions=431375642593&scope=applications.commands%20bot).
 
 Bot Store Many thing Like:-
 1) Guild ID
